@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jimjamesjimathy
 - 👀 I’m interested in ... Learning everything I can about this amazing thing that is Coding.
-- 🌱 I’m currently learning ... JavaScript
+- 🌱 I’m currently learning ... To be a Full-stack Developer
 - 💞️ I’m looking to collaborate on ... Anything!
 - 📫 How to reach me ... jamesalanmikal@gmail.com 
 
