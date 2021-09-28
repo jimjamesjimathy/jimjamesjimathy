@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jimjamesjimathy
-- 👀 I’m interested in ... Learning everything I can about this amazing thing that is Coding.
-- 🌱 I’m currently learning ... To be a Full-stack Developer
-- 💞️ I’m looking to collaborate on ... Anything!
+- 👋 Hi, I’m James Alan Mikal Kirkwood!
+- 👀 I’m interested in Coding Coding Coding!.
+- 🌱 I’m currently learning ... Multiple languages on my path to becoming a Full-stack Engineer.
+- 💞️ I’m looking to collaborate on ... Anything!!!
 - 📫 How to reach me ... jamesalanmikal@gmail.com 
 
 <!---
