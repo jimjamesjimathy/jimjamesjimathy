@@ -1,8 +1,8 @@
 # 🤠 Howdy! My name is James Alan Mikal Kirkwood.
 
-## 🤓 I am a full-time students at BloomTech institue of Technology. 
+## 🤓 I am a full-time student at BloomTech institue of Technology. 
 
-### 💻 I am obsessed with coding and am very eager to learn all that I can! 
+### 💻 I am obsessed with coding and am very eager to learn as much as I can.  
 
 #### 🐱‍👤 Technical Skills
    * Frontend: Redux, React.js, React Hooks, Context API, Jest, Axios, Yup, JavaScript, HTML, CSS, Bootstrap, Material-UI, Sass.
