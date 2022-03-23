@@ -1,4 +1,4 @@
-- 👋 Hi, I’m James Alan Mikal Kirkwood!
+* - 👋 Hi, I’m James Alan Mikal Kirkwood!
 - 👀 I’m interested in Coding Coding Coding!.
 - 🌱 I’m currently learning ... Multiple languages on my path to becoming a Full-stack Engineer.
 - 💞️ I’m looking to collaborate on ... Anything!!!
