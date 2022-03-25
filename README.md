@@ -16,7 +16,7 @@
 <h3 align=center>Wanna chat? Here's how to reach me.</h3>
 
 <p align=center><a href='mailto:jamesalanmikal@gmail.com'>Send me an e-mail</a></p>
-<p align=center><a href='https://www.linkedin.com/in/jimjamesjimathy/' target='_blank'>LinkedIn</a></p>
+<p align=center><a href='https://www.linkedin.com/in/jimjamesjimathy/'>LinkedIn</a></p>
 <p align=center><a href='https://codepen.io/jimjamesjimathy'>CodePen</a></p>
 <p align=center><a href='https://www.instagram.com/jim.james.jimathy/'>Instagram</a></p>
 
