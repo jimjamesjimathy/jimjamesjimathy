@@ -20,7 +20,8 @@
 <p align=center><a href='https://codepen.io/jimjamesjimathy'>CodePen</a></p>
 <p align=center><a href='https://www.instagram.com/jim.james.jimathy/'>Instagram</a></p>
 
-<h4 align=center>💃💃 <em>Onwards and upwards</em> 💃💃</h4>
+
+<h3 align=center><em>Onwards and upwards</em></h3>
 
 <!---
 jimjamesjimathy/jimjamesjimathy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
