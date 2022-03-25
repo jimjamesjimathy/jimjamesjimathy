@@ -3,7 +3,7 @@
 ![alt text](https://i.ibb.co/YpxCQhC/marek-piwnicki-Ci-PSUea-Ari-E-unsplash.jpg)
 <h2 align=center>Here is a little bit about me.</h2>
 
-<h4 align=center>I am a full-stack developer (specializing in Front End Web Developement) currently enrolled in Bloom Institute of Technology.</h4>
+<h4 align=center>I am a full-stack developer (specializing in Front End Web Developement) currently enrolled in <a href='https://www.bloomtech.com/'>Bloom Institute of Technology</a>.</h4>
 
 <h4 align=center>I am originally from San Marcos, TX, but I currently reside in Cleveland, OH. Outside of the coding world I like to keep busy. I play 6 instruments, write, record and produce my own music. I also have become fond of making comedy skits and doing my best to make people laugh. Everyone I know calls me a dad without kids because of my jokes, and I say, that makes me a <em>feax pa</em> 😎</h4>
 
