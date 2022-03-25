@@ -1,14 +1,25 @@
-# 🤠 Howdy! My name is James Alan Mikal Kirkwood.
+<h1 align=center>Howdy! My name is James Alan Mikal Kirkwood.</h1>
 
-## 🤓 I am a full-time student at BloomTech institue of Technology. 
+![alt text](https://i.ibb.co/YpxCQhC/marek-piwnicki-Ci-PSUea-Ari-E-unsplash.jpg)
+<h2 align=center>Here is a little bit about me.</h2>
 
-### 💻 I am obsessed with coding and am very eager to learn as much as I can.  
-### I am a self-motivated and highly reliable student positioned to contribute strongly to web developer operations demanding tact, enthusiasm, and an exemplary work ethic.
+<h4 align=center>I am a full-stack developer (specializing in Front End Web Developement) currently enrolled in BloomTech Institute of Technology.</h4>
 
-#### 🐱‍👤 Technical Skills
-   * Frontend: Redux, React.js, React Hooks, Context API, Jest, Axios, Yup, JavaScript, HTML, CSS, Bootstrap, Material-UI, Sass.
-   * Backend: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, Heroku, Vercel.
+<h4 align=center>I am originally from San Marcos, TX, but I currently reside in Cleveland, OH. Outside of the coding world I like to keep busy. I play 6 instruments, write, record and produce my own music. I also have become fond of making comedy skits and doing my best to make people laugh. Everyone I know calls me a dad without kids because of my jokes, and I say, that makes me a <em>feax pa</em> 😎</h4>
 
+
+ <h3 align=center>🐱‍👤 My Technical Skills 🐱‍👤</h3>
+  <p align=center>Frontend: Redux, React.js, React Hooks, Context API, Jest, Axios, Yup, JavaScript, HTML, CSS, Bootstrap, Material-UI, Sass.</p>
+   <p align=center>Backend: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, Heroku, Vercel.</p>
+
+
+<h3 align=center>Wanna chat? Here's how to reach me.</h3>
+<p align=center>Email: jamesalanmikal@gmail.com</p>
+<p align=center><a href='https://www.linkedin.com/in/jimjamesjimathy/'>LinkedIn</a></p>
+<p align=center><a href='https://codepen.io/jimjamesjimathy'>CodePen</a></p>
+<p align=center><a href='https://www.instagram.com/jim.james.jimathy/'>Instagram</a></p>
+
+<h4 align=center>💃💃 <em>Onwards and upwards</em> 💃💃</h4>
 
 <!---
 jimjamesjimathy/jimjamesjimathy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
