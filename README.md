@@ -1,6 +1,6 @@
 <h1 align=center>Howdy! My name is James Alan Mikal Kirkwood.</h1>
 
-![alt text](https://i.ibb.co/6Y69TTT/timothy-eberly-e-Qv-FSBD-mz-A-unsplash.jpg)
+![alt text](https://i.ibb.co/FDfpLBm/keith-jonson-6r-Dxqobr6dk-unsplash.jpg)
 <h2 align=center>Here is a little bit about me.</h2>
 
 <h4 align=center>I am a full-stack Software Developer (specializing in Front End Web Developement) currently enrolled in <a href='https://www.bloomtech.com/'>Bloom</a> Institute of Technology.</h4>
