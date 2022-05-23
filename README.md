@@ -9,7 +9,7 @@
 
  <h3 align=center>🐱‍👤 My Technical Skills 🐱‍👤</h3>
   <p align=center><strong>Frontend</strong>: React.js, Redux, React Hooks, Context API, Jest, Axios, Yup, JavaScript, HTML/HTML5, CSS, Bootstrap, Material-UI, Sass.</p>
-  <p align=center><strong>Backend</strong>: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, Heroku, Vercel.</p>
+  <p align=center><strong>Backend</strong>: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, Heroku, Vercel, MongoDB.</p>
 
 
 <h3 align=center>Wanna chat? Here's how to reach me.</h3>
