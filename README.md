@@ -2,7 +2,7 @@
 <h1 align="center">Howdy! 👋, I'm James Alan Mikal Kirkwood</h1>
 
 <h2 align="center">Here is a little bit about me.</h2>
-<h4 align="center">I am a full-stack Software Developer (specializing in Front End Web Developement) currently enrolled in <a href='https://www.bloomtech.com/'>Bloom</a> Institute of Technology.</h4>
+<h4 align="center">I am a full-stack Software Developer (specializing in Front End Web Developement) recently graduated from <a href='https://www.bloomtech.com/'>Bloom</a> Institute of Technology.</h4>
 
 <h5 align=center>I am originally from San Marcos, TX, but I currently reside in Cleveland, OH. I have my sights set on moving to Seattle, WA just as soon as I land my first position in tech. Outside of the coding world I like to keep busy. I play 5 instruments, write, record and produce my own music. I also have become fond of making comedy skits and doing my best to make people laugh. Everyone I know calls me a dad without kids because of my jokes, and I say that makes me a <em>faux pa</em> 😎</h5>
 
