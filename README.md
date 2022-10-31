@@ -1,4 +1,3 @@
-![alt text](https://i.ibb.co/FDfpLBm/keith-jonson-6r-Dxqobr6dk-unsplash.jpg)
 <h1 align="center">Howdy! 👋, I'm James Alan Mikal Kirkwood</h1>
 
 <h2 align="center">Here is a little bit about me.</h2>
